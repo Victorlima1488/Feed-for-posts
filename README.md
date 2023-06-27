@@ -18,11 +18,11 @@ This application was made in conjunction with Rocketseat, on the ignite track, a
   
 ## How to use
 
-# Adding comments is static as it doesn't have integration with a backend
+### 1 - Adding comments is static as it doesn't have integration with a backend
 ![Main page](./Readme%20Images/Main%20page.png)
-# You can like as many times as you want
+### 2 - You can like as many times as you want
 ![Main page](./Readme%20Images/Like.png)
-# Delete the comment whenever you want
+### 3 - Delete the comment whenever you want
 ![Main page](./Readme%20Images/Delete%20Comment.png)
 
 ## Features
