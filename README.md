@@ -9,8 +9,10 @@ This application was made in conjunction with Rocketseat, on the ignite track, a
 ## Services Used
 * Github
 
+## how to start the project
+* 
 ## How to use
-### 1 - When accessing the project you will see this home page.
+
 
 ## Features
 #### The main features of the application are:
