@@ -20,9 +20,9 @@ This application was made in conjunction with Rocketseat, on the ignite track, a
 
 ## Features
 #### The main features of the application are:
-* Creating comments.
-* Editing and deleting comments.
-* Personalized interaction user experience.
+* Publication of posts
+* Interaction through comments and likes
+* Delete comments
 ## Links
 * Repository: https://github.com/Victorlima1488/interactive-comments-section
   * In case of sensitive bugs like security vulnerabilities, please contact victorlima.softwaredeveloper@gmail.com. We value your effort     to improve the security and privacy of this project!
