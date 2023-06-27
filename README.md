@@ -10,9 +10,13 @@ This application was made in conjunction with Rocketseat, on the ignite track, a
 * Github
 
 ## how to start the project
-* 
+* In your terminal, open the file path where you want to put the project and type the command "git clone https://github.com/Victorlima1488/Feed-for-posts.git"
+  
+* Open the IDE of your choice, make sure you have node installed on your machine and type "npm install" to install all project dependencies.
+  
+* Type "npm run dev" to create a port where the project will be and copy this port in your browser, or click on the port using Ctrl + right mouse button.
+  
 ## How to use
-
 
 ## Features
 #### The main features of the application are:
