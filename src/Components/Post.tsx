@@ -12,7 +12,7 @@ interface Author {
 }
 
 interface Content {
-    type : 'paragraph' | 'link';
+    type: 'paragraph' | 'link';
     content: string;
 }
 
@@ -22,7 +22,7 @@ interface PostProps {
     content: Content[];
 }
 
-export function Post({author: author, publishedAt, content}: PostProps){
+export function Post({author, publishedAt, content}: PostProps){
     const [comments, setComments] = useState([''])
 
     const [newCommentText, setNewCommentText] = useState('')

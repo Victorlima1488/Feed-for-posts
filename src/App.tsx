@@ -26,8 +26,8 @@ const posts = [
   { 
     id:  2,
     author: {
-      avatarUrl: "https://github.com/victorlima1488.png",
-      name: "Neto Maciel",
+      avatarUrl: "https://github.com/LuizBoas.png",
+      name: "Luiz Fernando",
       role: "Front-end Developer"
     },
     content: [
@@ -48,12 +48,13 @@ export function App() {
         <Sidebar />
         <main>
           {posts.map(post=>{
+            {console.log(post.content)}
             return (
               <Post
                 key={post.id}
                 author={post.author}
-                content={post.content}
                 publishedAt={post.publishedAt}
+                content={post.content}
               />
             )
           })}
